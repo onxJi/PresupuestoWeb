@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 ## Screenshot:
-(https://raw.githubusercontent.com/onxJi/PresupuestoWeb/main/src/assets/presupuestoApp.png)
+https://raw.githubusercontent.com/onxJi/PresupuestoWeb/main/src/assets/presupuestoApp.png
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
