@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 ## Screenshot:
 
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/onxJi/PresupuestoWeb/main/src/assets/presupuestoApp.png</span><span>)</span>
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/onxJi/PresupuestoWeb/main/src/assets/presupuestoApp.png)
 
 
 
